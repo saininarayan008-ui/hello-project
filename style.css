@@ -1,0 +1,10 @@
+body{
+    background: black;
+    color: lime;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    padding: 10px 20px;
+    font-size: 18px;
+}
